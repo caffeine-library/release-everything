@@ -15,3 +15,7 @@ assignees: ''
 ## 연관 챕터
 
 #{연관 issue 번호}
+
+---
+
+@caffeine-library/readers-release-everything

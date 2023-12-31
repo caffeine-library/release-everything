@@ -14,3 +14,7 @@ ${질문 상세 내용}
 ## 연관 챕터
 
 #{연관 issue 번호}
+
+---
+
+@caffeine-library/readers-release-everything

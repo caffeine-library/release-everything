@@ -11,3 +11,8 @@ assignees:
 #{연관 issue 번호}
 
 ## 조사 내용
+
+
+---
+
+@caffeine-library/readers-release-everything
